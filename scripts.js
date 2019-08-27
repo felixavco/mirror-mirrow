@@ -25,10 +25,4 @@ let stateCheck = setInterval(() => {
   }
 }, 100);
 
-// const text = prompt("Cual es tu nombre?:")
-
-// if(text.trim() !== "") {
-
-// }
-// nameElement.innerHTML = name;
 
