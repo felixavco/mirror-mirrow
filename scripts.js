@@ -1,6 +1,4 @@
 const mirror = document.querySelector('#mirror');
-// const nameElement = document.querySelector('#name');
-// let name = "Tu Babos@"
 const wh = window.innerHeight;
 const ww =  window.innerWidth;
 
